@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "unittesting"
+  "defaultProject": "unittesting",
+  "cli": {
+    "analytics": "c57a888e-2e6e-4e30-92ab-0a6a1dc3d885"
+  }
 }
